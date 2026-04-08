@@ -13,3 +13,9 @@ payload:
   - DOMAIN-SUFFIX,lol.qq.com
   - DOMAIN-KEYWORD,riotgames
   - DOMAIN-KEYWORD,leagueoflegendsportal.com
+
+  # === 陌陌 Momo 直连 ===
+  - DOMAIN-SUFFIX,immomo.com
+  - DOMAIN-SUFFIX,momocdn.com
+  - DOMAIN-SUFFIX,wemomo.com
+  - DOMAIN-SUFFIX,immomo.cn
