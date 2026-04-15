@@ -16,3 +16,6 @@ payload:
 
   # === 陌陌直连 ===
   - DOMAIN-SUFFIX,immomo.com
+
+  # === 快手专题直连 ===
+  - DOMAIN-SUFFIX,kuaishouzt.com
