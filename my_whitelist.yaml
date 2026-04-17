@@ -1,21 +1,13 @@
 payload:
-  # === 个人小众服务 ===
-
-  # === QQ音乐/腾讯服务防误杀 ===
   - DOMAIN-SUFFIX,music.qq.com
   - DOMAIN-SUFFIX,music.tc.qq.com
   - DOMAIN-SUFFIX,qqmusic.qq.com
   - DOMAIN-KEYWORD,qpic
   - DOMAIN-KEYWORD,qqmusic
-
-  # === 英雄联盟游戏防误杀 ===
   - DOMAIN-SUFFIX,riotgames.com
   - DOMAIN-SUFFIX,lol.qq.com
   - DOMAIN-KEYWORD,riotgames
   - DOMAIN-KEYWORD,leagueoflegendsportal.com
-
-  # === 陌陌直连 ===
   - DOMAIN-SUFFIX,immomo.com
-
-  # === 快手专题直连 ===
   - DOMAIN-SUFFIX,kuaishouzt.com
+  - DOMAIN-SUFFIX,gov.cn
