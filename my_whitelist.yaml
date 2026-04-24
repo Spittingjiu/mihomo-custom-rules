@@ -16,3 +16,4 @@ payload:
   - DOMAIN-KEYWORD,iqiyi
   - PROCESS-NAME,com.qiyi.video
   - PROCESS-NAME,com.taobao.idlefish
+  - PROCESS-NAME,com.autonavi.minimap
